@@ -1,0 +1,10 @@
+keys*
+__pycache__/*
+calcul_balance*
+averages*
+ledger*
+logs*
+tickers*
+nohup*
+.vscode/*
+check_running*

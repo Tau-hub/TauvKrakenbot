@@ -1,0 +1,1 @@
+nohup python3 ~/kraken_bot/bot_trading.py &
