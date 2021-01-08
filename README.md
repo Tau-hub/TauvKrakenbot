@@ -1,6 +1,6 @@
 # Disclaimer
 
-This bot is only for use with Kraken and it has been done for a student project. 
+This bot is only for use with Kraken. 
 
 Everything in this bot has been done from scratch and do not need any third party program.
 
